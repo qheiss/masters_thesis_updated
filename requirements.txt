@@ -71,7 +71,7 @@ plotly==3.3.0
 
 
 
-py==1.7.0
+py==1.10.0
 pybiomart==0.2.0
 pycrypto==2.6.1
 
