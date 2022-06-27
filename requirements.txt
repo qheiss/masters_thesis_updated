@@ -94,7 +94,7 @@ pytz==2019.1
 
 
 
-reportlab==3.4.0
+reportlab==3.5.55
 
 requests==2.21.0
 requests-cache==0.4.13
